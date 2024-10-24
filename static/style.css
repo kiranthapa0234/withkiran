@@ -208,9 +208,9 @@ a{
         gap:20px;
     }
     .content{
-        scale:0.5;
+        scale:0.7;
     }
     .logo p{
-        font-size:0.5rem;
+        scale:0.8;
     }
   }
