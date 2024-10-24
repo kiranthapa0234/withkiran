@@ -207,7 +207,10 @@ a{
     header .links {
         gap:20px;
     }
-    .content p{
-        font-size:0.8rem;
+    .content{
+        scale:0.5;
+    }
+    .logo p{
+        font-size:0.5rem;
     }
   }
