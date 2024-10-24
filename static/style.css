@@ -82,9 +82,9 @@ header .links{
     margin-bottom:50px;
     font-size:1.5rem;
 }
-.links{
+.hero-section .links{
+    flex-wrap: wrap;
     display:flex;
-
     gap:20px;
 } 
 .contact ,.email{
@@ -203,7 +203,7 @@ a{
 
 /* media query  */
 
-@media only screen and (max-width: 450px) {
+@media only screen and (min-width: 450px) {
     header .links {
         gap:20px;
     }
